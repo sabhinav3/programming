@@ -6,6 +6,7 @@ Problem Link : https://www.codechef.com/problems/BC106
 
 */
 
+// Solution :
 
 /* package codechef; // don't place package name! */
 
