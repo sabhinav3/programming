@@ -21,7 +21,7 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner input = new Scanner(System.in);
-        int d, n;
+        	int d, n;
 		int i=0;
 		int x, y, a, b, c, dd;
 		n = input.nextInt(); // taking the input of " n " test cases.
