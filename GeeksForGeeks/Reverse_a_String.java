@@ -1,3 +1,12 @@
+/*
+
+Geeks for Geeks
+Problem Name : Reverse a String 
+Problem Link : https://practice.geeksforgeeks.org/problems/reverse-a-string/1#
+               https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+
+*/
+
 import java.util.*;
 import java.io.*;
 import java.lang.*;
