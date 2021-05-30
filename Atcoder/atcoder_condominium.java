@@ -11,22 +11,22 @@ import java.util.*;
 public class Main {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		int a = input.nextInt();
-		int b = input.nextInt();
-		int c = input.nextInt();
-		if(a==b){
-			System.out.println(c);
+		int i, j, sum=0, last=0;
+		int ans[] = new int[50];
+		int n = input.nextInt();
+		int k = input.nextInt();
+		for(i=1; i<=n; i++){
+			for(j=1; j<=k; j++){
+				sum = sum + (100*i) + j;
+			}
+			ans[i] = sum;
+			sum=0;
 		}
-		else if (c==a) {
-			System.out.println(b);
+		
+		for(i=1; i<=n; i++){
+			last = last + ans[i]; 
 		}
-		else if (b==c) {
-			System.out.println(a);
-		}
-
-		else{
-			System.out.println("0");
-		}
+		System.out.println(last);
 	}
 }
 
