@@ -1,3 +1,10 @@
+
+/*
+Date : 30/05/2021
+Contest : AtCoder Beginner Contest 203（Sponsored by Panasonic)
+Problem Name : B - AtCoder Condominium
+Problem Link : https://atcoder.jp/contests/abc203/tasks/abc203_b
+*/
 // Solution
 
 import java.util.*;
