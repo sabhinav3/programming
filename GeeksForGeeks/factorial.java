@@ -1,7 +1,14 @@
+/*
 
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-2 : Mathematics
+Problem Name :  Factorial Of Number 
+Problem Link :https://practice.geeksforgeeks.org/problems/factorial-of-number/1/?track=DSASP-Mathematics&batchId=154#
+General Problem Link : https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
+Date : 06/06/2021
 
-
-
+*/
 
 
 // Initial Template for Java
