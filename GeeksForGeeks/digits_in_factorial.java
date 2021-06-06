@@ -1,4 +1,14 @@
+/*
 
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-2 : Mathematics
+Problem Name :  Digits In Factorial
+Problem Link : https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=DSASP-Mathematics&batchId=154
+General Problem Link : https://www.geeksforgeeks.org/count-digits-factorial-set-1/
+Date : 06/06/2021
+
+*/
 
 
 
