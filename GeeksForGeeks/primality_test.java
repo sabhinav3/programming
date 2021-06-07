@@ -1,4 +1,14 @@
-https://practice.geeksforgeeks.org/problems/primality-test/1/?track=DSASP-Mathematics&batchId=154#
+/*
+
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-2 : Mathematics
+Problem Name :  Digits In Factorial
+Problem Link :https://practice.geeksforgeeks.org/problems/primality-test/1/?track=DSASP-Mathematics&batchId=154#
+General Problem Link : 
+Date : 06/06/2021
+
+*/
 
 
 //Initial Template for Java
