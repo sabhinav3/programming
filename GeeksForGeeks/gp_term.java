@@ -1,3 +1,16 @@
+/*
+
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-2 : Mathematics
+Problem Name : GP Term
+Problem Link : https://practice.geeksforgeeks.org/problems/gp-term/1/?track=DSASP-Mathematics&batchId=154#
+Date : 07/06/2021
+
+*/
+
+
+
 //Initial Template for Java
 
 /*package whatever //do not write package name here */
