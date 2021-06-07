@@ -6,7 +6,7 @@ Track-2 : Mathematics
 Problem Name :  Primality Test
 Problem Link :https://practice.geeksforgeeks.org/problems/primality-test/1/?track=DSASP-Mathematics&batchId=154#
 General Problem Link : 
-Date : 06/06/2021
+Date : 07/06/2021
 
 */
 
