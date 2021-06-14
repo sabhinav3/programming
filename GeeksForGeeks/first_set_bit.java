@@ -1,11 +1,12 @@
 /*
 
-Geeks for Geeks
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-3 : Bit Magic
 Problem Name : Find first set bit
 Problem Link : https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=DSASP-BitMagic&batchId=154#
-General Link :  
-
-
+General Link : https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
+Date : 14/06/2021
 
 */
 
