@@ -1,3 +1,17 @@
+/*
+
+Date : 26/06/2021
+Contest : AtCoder Beginner Contest 207
+Problem Name : A - Repression
+Problem Link : https://atcoder.jp/contests/abc207/tasks/abc207_a
+
+
+*/
+
+
+// Solution
+
+
 import java.util.*;
 public class Main{
 
