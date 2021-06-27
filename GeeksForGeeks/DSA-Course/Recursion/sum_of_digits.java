@@ -1,3 +1,15 @@
+/*
+
+Platform : Geeks for Geeks
+DSA Self Paced Course
+Track-4 : Recursion
+Problem Name : Sum of Digits of a Number
+Problem Link : https://practice.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1/?track=DSASP-Recursion&batchId=154#
+Date : 27/06/2021
+
+*/
+
+
 //Initial Template for Java
 
 import java.util.*;
