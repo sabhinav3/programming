@@ -1,7 +1,11 @@
+/*
 
+Platform : Leetcode
+Problem Name : 1929. Concatenation of Array
+Problem Link : https://leetcode.com/problems/concatenation-of-array/
 
+*/
 
-https://leetcode.com/problems/concatenation-of-array/
 
 class Solution {
     public int[] getConcatenation(int[] nums) {
