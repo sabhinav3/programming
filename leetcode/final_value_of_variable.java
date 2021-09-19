@@ -1,3 +1,15 @@
+/*
+
+Platform : Leetcode
+Problem Name : 2011. Final Value of Variable After Performing Operations
+Problem Link : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+
+*/
+
+
+
+
+
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
         int ans = 0;
