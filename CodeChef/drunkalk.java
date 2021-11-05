@@ -1,3 +1,21 @@
+/*
+
+
+Contest : Code Senso ( Div 3 )
+Date : 05-11-2021
+Problem Name : Drunk Alcoholic
+Problem Code : DRUNKALK
+Problem Link : https://www.codechef.com/problems/DRUNKALK
+
+Practice 
+
+
+*/
+
+// Solution
+
+
+
 import java.util.*;
 public class drunkalk{
 	public static void main(String[] args) {
