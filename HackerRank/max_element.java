@@ -6,7 +6,7 @@ Question Link : https://www.hackerrank.com/contests/smart-interviews-basic/chall
 
 
 import java.util.*;
-import java .io.*;
+import java.io.*;
 public class Solution {
 
     public static void main(String[] args) {
